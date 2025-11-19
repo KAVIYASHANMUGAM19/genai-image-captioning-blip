@@ -73,8 +73,10 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 
 ### OUTPUT:
 
-<img width="1355" height="382" alt="image" src="https://github.com/user-attachments/assets/f2aa87e2-b812-4346-a448-f43b34789484" />
-<img width="1143" height="765" alt="image" src="https://github.com/user-attachments/assets/a6c902f4-1d9b-431a-bb1c-a81e46aa5959" />
+<img width="1192" height="419" alt="image" src="https://github.com/user-attachments/assets/d6aedd9c-7844-4595-b754-795849027a81" />
+
+<img width="1199" height="632" alt="image" src="https://github.com/user-attachments/assets/98daca06-87c3-4759-a74e-17810a06807a" />
+
 
 ### RESULT:
 Thus the program to design and deploy a prototype application for image captioning was executed successfully.
